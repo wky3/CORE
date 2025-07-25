@@ -9,10 +9,10 @@ Welcome to the official repository for the paper "BCORE: Code-based Inverse Self
 
 
 
-![Intro](asserts/figures/Intro.png)
+![Intro](assets/figures/Intro.png)
 
 
 
 ## Overview
 
-![Method-main](asserts/figures/Method-main.png)
+![Method-main](assets/figures/Method-main.png)
