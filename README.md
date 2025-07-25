@@ -9,7 +9,7 @@ Welcome to the official repository for the paper "CORE: **Co**de-based Inve**r**
 
 
 
-<img src="assets/figures/Intro.png" style="zoom:20%;" />
+<img src="assets/figures/Intro.png" style="zoom:10%;" />
 
 ## Overview
 
