@@ -1,8 +1,11 @@
 <h1 align="center" style="line-height: 40px;">
   CORE: Code-based Inverse Self-Training Framework with Graph Expansion for Virtual Agents
 </h1>
-<div align="center">
-Anonymous submission
+
+<div align="center"> 
+  Anonymous submission
+</div>
+
 
 
 
