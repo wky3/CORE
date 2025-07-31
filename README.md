@@ -16,7 +16,7 @@ The development of Multimodal Virtual Agents has advanced with Multimodal Large 
 
 
 <div style="text-align: center;">
-  <img src="assets/figures/Intro.png" alt="Intro" style="width: 70%;" />
+  <img src="assets/figures/Intro.png" alt="Intro" style="width: 60%;" />
 </div>
 
 
@@ -33,7 +33,7 @@ The development of Multimodal Virtual Agents has advanced with Multimodal Large 
 **CORE**: A Code-based Inverse Self-Training Framework that derives executable reward functions from expert demonstrations via **Semantic Code Abstraction**, enhances in-domain diversity through multi-path **Strategy Graph Expansion**, and enriches out-of-domain diversity by recycling trajectories with **Trajectory-Guided Extrapolation**, forming a iterative self-improving pipeline for training robust and generalizable Multimodal Virtual Agents.
 
 <div style="text-align: center;">
-  <img src="assets/figures/Method-main.png" alt="Method-main" style="width: 90%;" />
+  <img src="assets/figures/Method-main.png" alt="Method-main" style="width: 80%;" />
 </div>
 
 
@@ -43,7 +43,7 @@ The development of Multimodal Virtual Agents has advanced with Multimodal Large 
 Here is an example demonstrating how **Strategy Graph Expansion** grows the graph and enriches behavioral diversity:
 
 <div style="text-align: center;">
-  <img src="assets/figures/Method-sub.png" alt="Method-sub" style="width: 90%;" />
+  <img src="assets/figures/Method-sub.png" alt="Method-sub" style="width: 80%;" />
 </div>
 
 Here is an example demonstrating how Label Functions validate key steps and mitigate the risk of misjudgments inherent in result-based benchmarks that evaluate only the final state:
